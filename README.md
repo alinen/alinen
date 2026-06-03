@@ -21,7 +21,6 @@ Email me at anormoyle @ brynmawr.edu
 * [tinygl](https://github.com/alinen/tinygl-cpp): Single header, cross-platform openGL framework for drawing 2D squares, circles, and triangles. 
 * [bvh-python](https://github.com/alinen/bvh-python): Utilities for reading, writing, visualizing, and computing forward kinematics with BVH files with Python.
 * [Curation Tree](https://github.com/alinen/curation-tree): Framework for behavior trees tailored for narrative and puzzle games.
-* [Selection Word Count](https://github.com/alinen/selection-word-count): Plugin for VS Code
 * [MotionScriptTools](https://github.com/alinen/MotionScriptTools): Scripting tools for matlab, motion builder, and maya
 <!---
 * [ABL Playstyles](https://github.com/alinen/abl-playstyles)
@@ -29,7 +28,7 @@ Email me at anormoyle @ brynmawr.edu
 * [Assigned Seating](https://github.com/alinen/assignedSeating): Automatically compute seating arrangements using signed spectral clustering (SSC)
 -->
 
-**Games, demos, and teaching**
+**Games, demos, plugins, and applications**
 
 * [Rubik's cube solver](https://github.com/alinen/cube): Heuristic-based approach for solving a Rubik's Cube. Visualized in Unity. 
 * [QWOP](https://github.com/alinen/qwop): Remake of QWOP written in pymunk and pyglet
@@ -45,6 +44,7 @@ Email me at anormoyle @ brynmawr.edu
 * [Shared Dreaming](https://github.com/alinen/shared-dreaming): Particle demos based on the LEAP Motion and webGL
 * [Glitch](https://github.com/alinen/glitch): Wampus-inspired javascript game.
 * [Manatee](https://github.com/alinen/manatee): Old Twitter bot that generates inspriational manatee messages 
+* [Selection Word Count](https://github.com/alinen/selection-word-count): Plugin for VS Code
 
 **Device software**
 
